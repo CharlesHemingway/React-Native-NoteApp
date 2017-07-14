@@ -1,6 +1,6 @@
 # React-Native-NoteApp
 
-This is based on the following tutorial with the exception that I used [Expo](https://expo.io/)instead: <br />
+This is based on the following tutorial with the exception that I used [Expo](https://expo.io/) instead: <br />
 [YouTube](https://youtu.be/AV41HahZEpU).
 
 
